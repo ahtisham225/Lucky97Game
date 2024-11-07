@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Lucky 97 Game'
+theme = "ananke"
